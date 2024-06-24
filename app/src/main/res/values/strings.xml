@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AppointmentApplication</string>
+    <string name="applicatin_name">Appointment Picker</string>
+
+    <!--    input label for login and sign up       -->
+    <string name="enter_name">Name:</string>
+    <string name="enter_email">Email:</string>
+    <string name="enter_password">Password:</string>
+
+    <!--    input hints for login and sign up       -->
+    <string name="email_hint">Enter your email ...</string>
+    <string name="password_hint">Enter your password ...</string>
+    <string name="name_hint">Enter your name ...</string>
+
+    <!--            login page texts                 -->
+    <string name="login_credentials">Enter your credentials to login.</string>
+    <string name="login_button">login</string>
+
+    <!--                signup page text             -->
+    <string name="signup_credentials">Enter your credentials to signup.</string>
+    <string name="signup_button">sign up</string>
+
+    <!--    hospital cards buttons -->
+    <string name="h_button">Book Now</string>
+    <string name="h_more_info">More Info</string>
+
+    <!-- strings.xml -->
+        <string-array name="appointment_times" >
+
+            <item>09:00 AM</item>
+            <item>10:00 AM</item>
+            <item>11:00 AM</item>
+            <item>12:00 PM</item>
+            <item>01:00 PM</item>
+            <item>02:00 PM</item>
+            <item>03:00 PM</item>
+            <item>04:00 PM</item>
+            <item>05:00 PM</item>
+
+        </string-array>
+
+
+
+</resources>
